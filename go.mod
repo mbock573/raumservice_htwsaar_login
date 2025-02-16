@@ -1,4 +1,4 @@
-module raumservice_htwsaar_login
+module github.com/mbock573/raumservice_htwsaar_login
 
 go 1.23.5
 

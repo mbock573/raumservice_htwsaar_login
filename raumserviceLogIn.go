@@ -2,14 +2,15 @@ package raumserviceLogin
 
 import (
 	"github.com/mbock573/httpClientHelper"
+	raumserviceURLs "github.com/mbock573/raumservice_htwsaar_login/internal"
 	"io"
 	"log"
 	"net/http"
 	"net/url"
-	raumserviceURLs "raumservice_htwsaar_login/internal"
 )
 
 const nutzername = "mbock"
+const hi = "hi"
 const passwort = "X2hahxnr7!"
 
 func Run(client *http.Client) error {

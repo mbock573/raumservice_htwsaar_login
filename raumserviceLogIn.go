@@ -8,8 +8,8 @@ import (
 	"net/url"
 )
 
-const nutzername = "mbock"
-const passwort = "X2hahxnr7!"
+const nutzername = "xxxx"
+const passwort = "xxxx"
 
 const BaseURL = "https://raumservice.htwsaar.de/"
 const LoginURL = "https://raumservice.htwsaar.de/index.php?mid=998&muid=0&muuid=0"
